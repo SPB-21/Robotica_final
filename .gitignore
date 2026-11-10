@@ -1,0 +1,19 @@
+
+# ROS 2 - Carpetas de compilacion
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos temporales
+*.tmp
+*.bak
+*~
+
+# Archivos de editores
+.vscode/
+.idea/
